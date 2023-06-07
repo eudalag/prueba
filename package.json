@@ -1,0 +1,23 @@
+{
+  "name": "test-recharts-barchart-with-brush-and-tilted-x-axis-labels-forked",
+  "version": "0.0.0",
+  "description": null,
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/1o6x11lvn7",
+  "main": "index.js",
+  "dependencies": {
+    "recharts": "latest",
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "lodash": "latest"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

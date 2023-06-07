@@ -1,0 +1,14 @@
+{
+  "name": "Test Recharts BarChart with Brush and tilted x-axis labels",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/1o6x11lvn7",
+  "main": "index.js",
+  "dependencies": {
+    "recharts": "latest",
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "lodash": "latest"
+  }
+}
